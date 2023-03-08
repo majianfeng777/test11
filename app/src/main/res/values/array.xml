@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="device">
+        <item>iotbysj</item>
+        <item>WQT_test2</item>
+        <item>WQT_test3</item>
+        <item>WQT_test4</item>
+    </string-array>
+</resources>
